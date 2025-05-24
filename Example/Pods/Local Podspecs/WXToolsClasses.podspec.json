@@ -1,22 +1,26 @@
 {
   "name": "WXToolsClasses",
   "version": "0.1.0",
-  "summary": "A short description of WXToolsClasses.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/26767347/WXToolsClasses",
+  "summary": "工具类封装",
+  "description": "iOS开发常用工具类封装，轻松解决不必要的代码编写",
+  "homepage": "https://github.com/1260269149/WXToolsClasses",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "26767347": "1260269149@qq.com"
+    "wangxu": "1260269149@qq.com"
   },
   "source": {
-    "git": "https://github.com/26767347/WXToolsClasses.git",
+    "git": "https://github.com/1260269149/WXToolsClasses.git",
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "15.0"
   },
-  "source_files": "WXToolsClasses/Classes/**/*"
+  "source_files": "WXToolsClasses/Classes/**/*",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "SnapKit": []
+  }
 }

@@ -16,7 +16,9 @@ PODS:
     - iOSSnapshotTestCase (~> 8.0)
     - Nimble
   - Quick (2.2.1)
-  - WXToolsClasses (0.1.0)
+  - SnapKit (5.6.0)
+  - WXToolsClasses (0.1.0):
+    - SnapKit
 
 DEPENDENCIES:
   - FBSnapshotTestCase (~> 2.1.4)
@@ -32,6 +34,7 @@ SPEC REPOS:
     - Nimble
     - Nimble-Snapshots
     - Quick
+    - SnapKit
 
 EXTERNAL SOURCES:
   WXToolsClasses:
@@ -43,7 +46,8 @@ SPEC CHECKSUMS:
   Nimble: 5316ef81a170ce87baf72dd961f22f89a602ff84
   Nimble-Snapshots: ef281b908c604f78c8313587e25ea92c8ab513d7
   Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
-  WXToolsClasses: 50f3e4886717ddba1ef405b295c18ec7513b307b
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  WXToolsClasses: 9bf07ecfb3d869fc180d98b1fca7a8e00b1d648d
 
 PODFILE CHECKSUM: 8f1ab1e3842eaa20e1a865adc7cd7ab51345682a
 
