@@ -33,4 +33,5 @@ iOS开发常用工具类封装，轻松解决不必要的代码编写
   # s.public_header_files = 'Pod/Classes/**/*.h'
   s.frameworks = 'UIKit'#, 'MapKit'
   s.dependency 'SnapKit'#, '~> 2.3'
+  s.swift_versions = ['5.0']
 end
