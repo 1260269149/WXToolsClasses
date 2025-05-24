@@ -1,0 +1,6 @@
+framework module WXToolsClasses {
+  umbrella header "WXToolsClasses-umbrella.h"
+
+  export *
+  module * { export * }
+}
